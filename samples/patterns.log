@@ -63,6 +63,7 @@ Apr 10 10:06:11AM hostname tag: strings
 --- Objects
 https://github.com/fei6409/log-highlight.nvim#installation
 http://google.com
+s3://google.com
 192.168.1.1
 192.168.0.0/24
 2001:0db8:85a3:0000:0000:8a2e:0370:7334
