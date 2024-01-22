@@ -75,7 +75,7 @@ syn match logSysProcess     display     '\<[[:alnum:]\._-]\+\(\[[[:digit:]:]\+\]
 
 " Objects
 " ------------------------------
-syn match logUrl        display     '\<\S\{2,}:\/\/\S\*'
+syn match logUrl        display     '\<\S\{2,}:\/\/\S*'
 syn match logIPv4       display     '\<\d\{1,3}\(\.\d\{1,3}\)\{3}\(\/\d\+\)\?\>'
 syn match logIPv6       display     '\<\x\{1,4}\(:\x\{1,4}\)\{7}\(\/\d\+\)\?\>'
 syn match logMacAddr    display     '\x\{2}\(:\x\{2}\)\{5}'
